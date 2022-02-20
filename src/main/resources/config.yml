@@ -1,0 +1,6 @@
+prefix: "[Blacklist]"
+kickmessage: "Vas nick obsahuje nepovoleny vyraz %blocked%"
+debug: false
+blockedNames:
+  - "mcdown_pw_"
+  - "mcstorm_io_"

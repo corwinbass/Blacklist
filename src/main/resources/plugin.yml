@@ -1,0 +1,7 @@
+name: Blacklist
+version: '${version}'
+main: cz.bukkit.blacklist.Blacklist
+api-version: 1.15
+prefix: Blacklist
+authors: [ Corwin ]
+description: Nickname blacklist
